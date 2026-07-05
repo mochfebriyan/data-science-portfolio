@@ -1,6 +1,6 @@
-# 📊 Machine Learning Portfolio
+# 📊 Data Science Portfolio
 
-Welcome to my Machine Learning Portfolio! This repository serves as a central hub for my machine learning, data analytics, and business intelligence projects.
+Welcome to my Data science Portfolio! This repository serves as a central hub for my data-related project such as: machine learning, data analytics, and business intelligence projects.
 
 My name is **Mochammad Febriyan Masyhudi**, i am an Information Systems undergraduate who enjoys solving business problems through data. My projects cover the complete analytical workflow: from data cleaning and exploratory data analysis (EDA) to feature engineering, machine learning, visualization, and business insights.
 
