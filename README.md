@@ -24,13 +24,10 @@ I primarily work with Python and SQL to build end-to-end analytics and machine l
 
 ## 🤖 Machine Learning
 
-| Project | Description | Techniques | Status |
-|---------|-------------|------------|--------|
-| **[Bank Customer Clustering](https://github.com/YOUR_USERNAME/bank-customer-clustering)** | Segment bank customers based on transaction behavior using K-Means clustering with complete preprocessing and PCA validation. | K-Means, PCA, Feature Engineering | ✅ Completed |
-| **Customer Churn Prediction** | Predict customer churn using supervised machine learning and feature engineering. | Classification | 🚧 Coming Soon |
-| **Credit Risk Classification** | Predict loan default risk using financial customer data. | Classification | 🚧 Coming Soon |
-| **Recommendation System** | Build a recommendation system using collaborative and content-based filtering. | Recommendation Systems | 🚧 Coming Soon |
-| **House Price Prediction** | Predict house prices using regression models. | Regression | 🚧 Coming Soon |
+| Project | Description | Techniques |
+|---------|-------------|------------|
+| **[Bank Customer Clustering](https://github.com/mochfebriyan/bank-customer-clustering)** | Segment bank customers based on transaction behavior using K-Means clustering with complete preprocessing and PCA validation. | K-Means, PCA, Feature Engineering |
+
 
 ---
 
@@ -38,9 +35,7 @@ I primarily work with Python and SQL to build end-to-end analytics and machine l
 
 | Project | Description | Tools | Status |
 |---------|-------------|-------|--------|
-| **Olist E-Commerce Analytics** | Built an ETL pipeline, customer segmentation (RFM), sales analysis, and executive dashboard using a Brazilian e-commerce dataset. | Pentaho, MongoDB, Power BI | 🚧 Repository Coming Soon |
-| **Sales Dashboard** | Interactive dashboard for monitoring business KPIs and sales performance. | Power BI | 🚧 Coming Soon |
-| **Customer Segmentation Dashboard** | Interactive dashboard visualizing customer segments and purchasing behavior. | Power BI | 🚧 Coming Soon |
+
 
 ---
 
