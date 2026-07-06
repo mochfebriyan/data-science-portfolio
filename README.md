@@ -1,123 +1,109 @@
 # 📊 Data Science Portfolio
 
-Welcome to my Data science Portfolio! This repository serves as a central hub for my data-related project such as: machine learning, data analytics, and business intelligence projects.
+Welcome to my Data Science Portfolio!
 
-My name is **Mochammad Febriyan Masyhudi**, i am an Information Systems undergraduate who enjoys solving business problems through data. My projects cover the complete analytical workflow: from data cleaning and exploratory data analysis (EDA) to feature engineering, machine learning, visualization, and business insights.
+This repository serves as an index of my data science, machine learning, deep learning, and analytics projects. Each project focuses on solving a real-world problem using an end-to-end workflow: from data collection and preprocessing to modeling, evaluation, visualization, and deployment.
 
 ---
 
 ## 👋 About Me
 
-Hi! I'm **Mochammad Febriyan Masyhudi**, an undergraduate Information Systems student with interests in:
+Hi! I'm **Mochammad Febriyan Masyhudi**, an undergraduate Information Systems student passionate about Data Science, Machine Learning, and Business Intelligence.
 
-- 📈 Data Analytics
-- 🤖 Machine Learning
-- 📊 Business Intelligence
-- 🗄️ Data Engineering (ETL)
-- 💼 Business & Customer Analytics
-
-I primarily work with Python and SQL to build end-to-end analytics and machine learning solutions.
+I enjoy building projects that combine technical implementation with business understanding. My interests include customer analytics, predictive modeling, natural language processing, computer vision, and data-driven decision making.
 
 ---
 
-# 🚀 Projects
+## 🛠 Tech Stack
 
-## 🤖 Machine Learning
-
-| Project | Description | Techniques |
-|---------|-------------|------------|
-| **[Bank Customer Clustering](https://github.com/mochfebriyan/bank-customer-clustering)** | Segment bank customers based on transaction behavior using K-Means clustering with complete preprocessing and PCA validation. | K-Means, PCA, Feature Engineering |
-
-
----
-
-## 📊 Data Analytics & Business Intelligence
-
-| Project | Description | Tools | Status |
-|---------|-------------|-------|--------|
-
-
----
-
-# 🛠️ Skills
-
-### Programming Languages
+### Languages
 
 - Python
 - SQL
 
-### Data Processing
+### Data Science & Machine Learning
 
 - Pandas
 - NumPy
-
-### Machine Learning
-
 - Scikit-learn
-- Yellowbrick
+- TensorFlow / Keras
 
 ### Data Visualization
 
 - Matplotlib
 - Seaborn
-- Power BI
+- Tableau
+
+### Natural Language Processing
+
+- NLTK
+- Sastrawi
+- WordCloud
 
 ### Data Engineering
 
 - Pentaho Data Integration (PDI)
 - MongoDB
 
-### Version Control
+### Tools
 
+- Jupyter Notebook
+- Google Colab
 - Git
 - GitHub
 
 ---
 
-# 📚 Topics Covered
+# 🚀 Projects
 
-Throughout these projects, I have worked on:
+| Project | Category | Description | Technologies |
+|---------|----------|-------------|--------------|
+| **[🏦 Bank Customer Clustering](https://github.com/mochfebriyan/bank-customer-segmentation)** | Unsupervised Learning | Behavior-based customer segmentation using K-Means clustering with PCA validation and feature engineering. | Python, Scikit-learn, PCA |
+| **[📞 Bank Marketing Lead Scoring (BLiSS)](https://github.com/mochfebriyan/bliss-ml-prediction)** | Supervised Learning | Predictive lead scoring model for bank telemarketing campaigns using feature engineering and neural networks. | TensorFlow, Scikit-learn, XGBoost |
+| **[🐶 Animal Image Classification](https://github.com/mochfebriyan/animal-image-classification)** | Computer Vision | Multi-class image classification using a custom CNN with deployment to TensorFlow Lite and TensorFlow.js. | TensorFlow, CNN |
+| **[💬 Roblox Review Sentiment Analysis](https://github.com/mochfebriyan/roblox-sentiment-analysis)** | Natural Language Processing | Indonesian sentiment analysis using self-scraped Google Play reviews and Bidirectional GRU/LSTM models. | TensorFlow, NLP |
+
+---
+
+## 📚 Skills Demonstrated
+
+Across these projects, I have worked with:
 
 - Exploratory Data Analysis (EDA)
-- Data Cleaning
+- Data Cleaning & Preprocessing
 - Feature Engineering
-- Data Preprocessing
-- Outlier Detection
-- Missing Value Handling
-- Feature Scaling
-- Encoding
+- Data Visualization
+- Statistical Analysis
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
 - Clustering
 - Classification
-- Regression
-- Recommendation Systems
 - Model Evaluation
 - Principal Component Analysis (PCA)
-- Business Intelligence
-- Dashboard Development
+- TensorFlow Model Deployment
 - ETL Pipeline Development
-
----
-
-# 🎯 Current Learning Focus
-
-I'm continuously learning and building projects related to:
-
-- Supervised Learning
-- Unsupervised Learning
-- Feature Engineering
 - Business Intelligence
-- Customer Analytics
+
+---
+
+## 🎯 Currently Learning
+
+- Recommendation Systems
 - Time Series Forecasting
-- Deep Learning
-- Natural Language Processing (NLP)
+- Explainable AI (XAI)
+- MLOps
+- Large Language Models (LLMs)
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/mochfebriyan
-- GitHub: https://github.com/mochfebriyan
+- **GitHub:** https://github.com/mochfebriyan
+- **LinkedIn:** https://linkedin.com/in/mochfebriyan
 
 ---
 
-⭐ Thank you for visiting my portfolio! More projects will be added as I continue learning and building.
+⭐ Thanks for visiting my portfolio! I'm continuously learning and adding new projects to explore different areas of Data Science and Machine Learning.
+````
