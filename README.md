@@ -20,6 +20,7 @@ I enjoy building projects that combine technical implementation with business un
 |---------|----------|-------------|--------------|
 | **[🏦 Bank Customer Clustering](https://github.com/mochfebriyan/bank-customer-segmentation)** | Unsupervised Learning | Behavior-based customer segmentation using K-Means clustering with PCA validation and feature engineering. | Python, Scikit-learn, PCA |
 | **[📞 Bank Marketing Lead Scoring (BLiSS)](https://github.com/mochfebriyan/bliss-ml-prediction)** | Supervised Learning | Predictive lead scoring model for bank telemarketing campaigns using feature engineering and neural networks. | TensorFlow, Scikit-learn, XGBoost |
+| **[⚙️ End-to-End MLOps Pipeline](https://github.com/mochfebriyan/mlops-pipeline)** | MLOps | Production-ready ML pipeline featuring automated preprocessing, experiment tracking, CI/CD retraining, containerization, and monitoring. | MLflow, Docker, GitHub Actions, Prometheus, Grafana |
 | **[🐶 Animal Image Classification](https://github.com/mochfebriyan/animal-image-classification)** | Computer Vision | Multi-class image classification using a custom CNN with deployment to TensorFlow Lite and TensorFlow.js. | TensorFlow, CNN |
 | **[💬 Roblox Review Sentiment Analysis](https://github.com/mochfebriyan/roblox-sentiment-analysis)** | Natural Language Processing | Indonesian sentiment analysis using self-scraped Google Play reviews and Bidirectional GRU/LSTM models. | TensorFlow, NLP |
 
@@ -27,17 +28,17 @@ I enjoy building projects that combine technical implementation with business un
 
 ## 📚 Skills Demonstrated
 
-| Area | Competencies |
-|------|-------------------|
-| **Analytics** | Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization |
-| **Data Preparation** | Data Cleaning, Feature Engineering, Encoding, Scaling, Outlier Handling |
-| **Machine Learning** | Classification, Clustering, Dimensionality Reduction (PCA), Model Evaluation |
-| **Deep Learning** | Neural Networks (ANN), CNN, Bidirectional LSTM, Bidirectional GRU |
-| **Natural Language Processing** | Text Preprocessing, Sentiment Analysis, Lexicon-Based Labeling |
+| Domain | Skills |
+|--------|--------|
+| **Data Analysis** | Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization |
+| **Data Preparation** | Data Cleaning, Missing Value Handling, Outlier Detection, Feature Engineering, Feature Scaling, Encoding |
+| **Machine Learning** | Classification, Clustering, Model Evaluation, Hyperparameter Tuning, Principal Component Analysis (PCA) |
+| **Deep Learning** | Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Bidirectional LSTM, Bidirectional GRU |
+| **Natural Language Processing** | Text Preprocessing, Tokenization, Stemming, Stopword Removal, Sentiment Analysis, Lexicon-Based Labeling |
 | **Computer Vision** | Image Classification, Data Augmentation |
-| **Deployment** | TensorFlow Lite, TensorFlow.js, Model Serialization |
-| **Data Engineering** | ETL Pipeline Development, Data Integration |
-| **Business Applications** | Customer Segmentation, Lead Scoring, Predictive Analytics |
+| **MLOps** | Experiment Tracking, CI/CD Automation, Model Versioning, Containerization, Model Monitoring, Production Metrics |
+| **Deployment & Engineering** | TensorFlow Lite, TensorFlow.js, MLflow, Docker, GitHub Actions, ETL Pipeline Development |
+| **Business Applications** | Customer Segmentation, Lead Scoring, Predictive Analytics, Business Intelligence |
 
 ---
 
@@ -47,10 +48,12 @@ I enjoy building projects that combine technical implementation with business un
 |--------|--------------|
 | **Programming** | Python, SQL |
 | **Data Processing** | Pandas, NumPy |
-| **Machine Learning** | Scikit-learn, TensorFlow / Keras |
-| **Visualization & BI** | Matplotlib, Seaborn, Tableau, WordCloud |
+| **Machine Learning** | Scikit-learn, TensorFlow / Keras, XGBoost, Yellowbrick |
 | **Natural Language Processing** | NLTK, Sastrawi |
+| **Computer Vision** | TensorFlow Lite, TensorFlow.js |
+| **Visualization & BI** | Matplotlib, Seaborn, Tableau, WordCloud |
 | **Data Engineering** | Pentaho Data Integration (PDI), MongoDB |
+| **MLOps** | MLflow, GitHub Actions, Docker, Prometheus, Grafana |
 | **Development** | Jupyter Notebook, Google Colab, Git, GitHub |
 ---
 
