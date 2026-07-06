@@ -14,46 +14,6 @@ I enjoy building projects that combine technical implementation with business un
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-
-- Python
-- SQL
-
-### Data Science & Machine Learning
-
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow / Keras
-
-### Data Visualization
-
-- Matplotlib
-- Seaborn
-- Tableau
-
-### Natural Language Processing
-
-- NLTK
-- Sastrawi
-- WordCloud
-
-### Data Engineering
-
-- Pentaho Data Integration (PDI)
-- MongoDB
-
-### Tools
-
-- Jupyter Notebook
-- Google Colab
-- Git
-- GitHub
-
----
-
 # 🚀 Projects
 
 | Project | Category | Description | Technologies |
@@ -67,25 +27,31 @@ I enjoy building projects that combine technical implementation with business un
 
 ## 📚 Skills Demonstrated
 
-Across these projects, I have worked with:
+| Area | Competencies |
+|------|-------------------|
+| **Analytics** | Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization |
+| **Data Preparation** | Data Cleaning, Feature Engineering, Encoding, Scaling, Outlier Handling |
+| **Machine Learning** | Classification, Clustering, Dimensionality Reduction (PCA), Model Evaluation |
+| **Deep Learning** | Neural Networks (ANN), CNN, Bidirectional LSTM, Bidirectional GRU |
+| **Natural Language Processing** | Text Preprocessing, Sentiment Analysis, Lexicon-Based Labeling |
+| **Computer Vision** | Image Classification, Data Augmentation |
+| **Deployment** | TensorFlow Lite, TensorFlow.js, Model Serialization |
+| **Data Engineering** | ETL Pipeline Development, Data Integration |
+| **Business Applications** | Customer Segmentation, Lead Scoring, Predictive Analytics |
 
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing
-- Feature Engineering
-- Data Visualization
-- Statistical Analysis
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Clustering
-- Classification
-- Model Evaluation
-- Principal Component Analysis (PCA)
-- TensorFlow Model Deployment
-- ETL Pipeline Development
-- Business Intelligence
+---
 
+## 🛠 Tech Stack
+
+| Domain | Technologies |
+|--------|--------------|
+| **Programming** | Python, SQL |
+| **Data Processing** | Pandas, NumPy |
+| **Machine Learning** | Scikit-learn, TensorFlow / Keras |
+| **Visualization & BI** | Matplotlib, Seaborn, Tableau, WordCloud |
+| **Natural Language Processing** | NLTK, Sastrawi |
+| **Data Engineering** | Pentaho Data Integration (PDI), MongoDB |
+| **Development** | Jupyter Notebook, Google Colab, Git, GitHub |
 ---
 
 ## 🎯 Currently Learning
